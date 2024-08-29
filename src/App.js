@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -7,7 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          {" "}
+          Task
+          <h1>1. Create CI/CD pipeline for for Node js project. ✅</h1>
+          <h1>2. ⁠Create CI/CD for your react js project. ✅</h1>
         </p>
         <a
           className="App-link"
