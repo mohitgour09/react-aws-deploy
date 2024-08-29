@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          {" "}
+          <h2>Mohit Gour</h2>
           Task
           <h1>1. Create CI/CD pipeline for for Node js project. ✅</h1>
           <h1>2. ⁠Create CI/CD for your react js project. ✅</h1>
